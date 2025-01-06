@@ -1,6 +1,4 @@
 
-Here’s a detailed and professional README.md for the described Fintech Bank Application project:
-
 🌐 Horizon - Fintech Bank Application
 A comprehensive financial SaaS platform that connects multiple bank accounts, displays real-time transactions, and enables fund transfers with robust features and secure architecture.
 
