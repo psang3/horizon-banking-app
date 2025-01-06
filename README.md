@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+Here’s a detailed and professional README.md for the described Fintech Bank Application project:
 
-First, run the development server:
+🌐 Horizon - Fintech Bank Application
+A comprehensive financial SaaS platform that connects multiple bank accounts, displays real-time transactions, and enables fund transfers with robust features and secure architecture.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+📋 Table of Contents
+Introduction
+Tech Stack
+Features
+Quick Start
+Prerequisites
+Cloning the Repository
+Installation
+Environment Variables
+Running the Project
+Code Snippets
+Assets
+Tutorial
+More
+🤖 Introduction
+Horizon is a Fintech SaaS platform built with Next.js. It allows users to connect and manage multiple bank accounts, transfer funds, view real-time transactions, and organize their finances.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+For detailed guidance, watch the complete tutorial available on the JavaScript Mastery YouTube Channel and join the JSM Family!
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+For support or questions, join our active Discord Community, with over 34k+ members helping each other build and troubleshoot projects.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+⚙️ Tech Stack
+The project is built using modern web development tools and libraries:
 
-## Learn More
+Next.js (Framework)
+TypeScript
+Appwrite (Backend as a Service)
+Plaid (Bank API Integration)
+Dwolla (Funds Transfer)
+React Hook Form (Form handling)
+Zod (Validation)
+TailwindCSS (Styling)
+Chart.js (Data visualization)
+ShadCN (Component library)
+🔋 Features
+Horizon includes the following features:
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Authentication: Secure SSR authentication with proper validations and authorization.
+Connect Banks: Link multiple bank accounts using Plaid.
+Home Page: Real-time account overview with total balance, recent transactions, and spending categories.
+My Banks: View a complete list of connected banks and their details.
+Transaction History: Filterable and paginated transaction history.
+Real-Time Updates: Changes instantly reflect across all pages.
+Funds Transfer: Send money using Dwolla with recipient details and bank IDs.
+Responsive Design: Adapts seamlessly across devices (desktop, tablet, mobile).
