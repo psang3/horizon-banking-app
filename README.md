@@ -14,14 +14,9 @@ Environment Variables
 Running the Project
 Code Snippets
 Assets
-Tutorial
 More
 🤖 Introduction
 Horizon is a Fintech SaaS platform built with Next.js. It allows users to connect and manage multiple bank accounts, transfer funds, view real-time transactions, and organize their finances.
-
-For detailed guidance, watch the complete tutorial available on the JavaScript Mastery YouTube Channel and join the JSM Family!
-
-For support or questions, join our active Discord Community, with over 34k+ members helping each other build and troubleshoot projects.
 
 ⚙️ Tech Stack
 The project is built using modern web development tools and libraries:
